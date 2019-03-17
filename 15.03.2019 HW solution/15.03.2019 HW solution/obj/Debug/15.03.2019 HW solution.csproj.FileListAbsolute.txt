@@ -1,0 +1,7 @@
+C:\Users\itsvibel\source\repos\15.03.2019 HW solution\15.03.2019 HW solution\bin\Debug\15.03.2019 HW solution.exe.config
+C:\Users\itsvibel\source\repos\15.03.2019 HW solution\15.03.2019 HW solution\bin\Debug\15.03.2019 HW solution.exe
+C:\Users\itsvibel\source\repos\15.03.2019 HW solution\15.03.2019 HW solution\bin\Debug\15.03.2019 HW solution.pdb
+C:\Users\itsvibel\source\repos\15.03.2019 HW solution\15.03.2019 HW solution\obj\Debug\15.03.2019 HW solution.csprojAssemblyReference.cache
+C:\Users\itsvibel\source\repos\15.03.2019 HW solution\15.03.2019 HW solution\obj\Debug\15.03.2019 HW solution.csproj.CoreCompileInputs.cache
+C:\Users\itsvibel\source\repos\15.03.2019 HW solution\15.03.2019 HW solution\obj\Debug\15.03.2019 HW solution.exe
+C:\Users\itsvibel\source\repos\15.03.2019 HW solution\15.03.2019 HW solution\obj\Debug\15.03.2019 HW solution.pdb
